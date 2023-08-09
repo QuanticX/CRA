@@ -116,4 +116,5 @@ li {
   align-items: center !important;
   text-align: center !important;
   border-style: none;
+  outline: none;
 }
